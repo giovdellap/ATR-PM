@@ -6,8 +6,8 @@ Ivan Nicolò
 Eugenio Facciolo   
 Alessandro Pisent  
 
-# ATR SYSTEMS UPGRADE
-## INFORMATIVE SYSTEMS UPGRADE BY INFOIGEA
+## ATR SYSTEMS UPGRADE
+### INFORMATIVE SYSTEMS UPGRADE BY INFOIGEA
 
 The project aims to upgrade ATR's information systems for enhanced operational efficiency.    
 It involves meticulously planning and executing various phases, using the incremental development model for systematic progress. This model enables effective management of resources, timely issue identification, and resolution, ensuring minimal disruption to ATR's ongoing operations.    
